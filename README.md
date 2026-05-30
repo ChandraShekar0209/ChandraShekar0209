@@ -49,3 +49,8 @@ with fully focused on building production AI systems.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekar0209&layout=compact&theme=dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChandraShekar0209&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandraShekar0209&show_icons=true&theme=dark&hide_border=true)
