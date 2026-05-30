@@ -43,4 +43,4 @@ with fully focused on building production AI systems.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandraShekar0209&show_icons=true&theme=dark&hide_border=true)
