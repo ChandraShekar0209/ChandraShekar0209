@@ -1,51 +1,80 @@
 # Hi, I'm Chandrashekar Garigapati 👋
 
-### AI Engineer | LLMs · RAG · Multi-Agent Systems · Local LLMs
+**AI Engineer** building production AI systems — RAG pipelines, local LLMs, and multi-agent systems.
 
-MS Data Science — SUNY Albany 2026 | BS Computer Science — SRM University
-
-Fully focused on building production AI systems that solve real problems.
+MS Data Science @ SUNY Albany 2026 · BS Computer Science @ SRM University
 
 ---
 
-### 🔧 What I'm building
+### 🚀 What I build
 
-- 🔹 **AI Job Search Agent** — RAG pipeline matches your resume against real job postings via JSearch API. Exposed as FastAPI REST API with LangSmith tracing.
-- 🔹 **Local AI Code Reviewer** — 3 open source LLMs (LLaMA, CodeLlama, Mistral) review your code locally via Ollama. Zero data leaves your machine. Benchmarks all 3 models.
-- 🔹 **AI Research Assistant** — 4 AutoGen agents debate any research paper. Reader extracts, Critic challenges, Implementer writes code, Summariser gives verdict.
+**AI systems that solve real problems — not tutorials.**
 
----
-
-### 🛠 My stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat&logo=microsoft&logoColor=white)
-
----
-
-### 📌 Featured projects
-
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [AI Job Search Agent](https://github.com/ChandraShekar0209/AI-assisted-Job-Search) | Resume-matched job search with 3-tier LLM scoring | LangChain · ChromaDB · JSearch · FastAPI · LangSmith |
-| [Local AI Code Reviewer](https://github.com/ChandraShekar0209/local-code-reviewer) | Privacy-first code review using 3 local LLMs with benchmarking | Ollama · LLaMA · CodeLlama · Mistral · FastAPI |
-| [AI Research Assistant](https://github.com/ChandraShekar0209/ai-research-assistant) | 4 AutoGen agents debate any research paper and deliver a structured verdict | AutoGen · GPT-4o-mini · FastAPI · arxiv |
+| [🔍 AI Job Search Agent](https://github.com/ChandraShekar0209/AI-assisted-Job-Search) | Upload your resume → get matched job postings ranked by skill fit using 3-tier LLM scoring | LangChain · ChromaDB · JSearch API · FastAPI · LangSmith |
+| [🔒 Local AI Code Reviewer](https://github.com/ChandraShekar0209/local-code-reviewer) | 3 open source LLMs review your code locally — no data leaves your machine, zero API cost | Ollama · LLaMA 3.2 · CodeLlama · Mistral · FastAPI |
+| [🧠 AI Research Assistant](https://github.com/ChandraShekar0209/ai-research-assistant) | 4 AutoGen agents debate any research paper — Reader extracts, Critic challenges, Implementer codes, Summariser concludes | AutoGen · GPT-4o-mini · FastAPI · arxiv |
 
 ---
 
-### 📫 Connect with me
+### 🛠 Tech stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-shekar-garigapati-a8b45223b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chandrashekar.garigapati@gmail.com)
+**AI & LLMs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**APIs & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Data & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandraShekar0209&show_icons=true&theme=dark&hide_border=true&count_private=true)
+### 🎯 What I am focused on
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraShekar0209&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=jupyter%20notebook)
+```
+Currently building → AI Engineer portfolio (3 projects shipped)
+Learning next      → PyTorch · HuggingFace fine-tuning · Docker
+Target roles       → AI Engineer · ML Engineer · GenAI Engineer
+Open to            → Remote · Hybrid · On-site across the US
+```
+
+---
+
+### 📊 GitHub activity
+
+<!--
+Stats cards removed — external services unreliable.
+Visit my repos directly to see the work:
+-->
+
+**Recent pushes:**
+- [`ai-research-assistant`](https://github.com/ChandraShekar0209/ai-research-assistant) — AutoGen multi-agent research paper analyser
+- [`local-code-reviewer`](https://github.com/ChandraShekar0209/local-code-reviewer) — Privacy-first local LLM code review API
+- [`AI-assisted-Job-Search`](https://github.com/ChandraShekar0209/AI-assisted-Job-Search) — RAG-powered job matching REST API
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandrashekar_Garigapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-shekar-garigapati-a8b45223b)
+[![Email](https://img.shields.io/badge/Email-chandrashekar.garigapati@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandrashekar.garigapati@gmail.com)
+
+---
+
+*Open to AI Engineer roles — building in public while I search.*
