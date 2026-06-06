@@ -2,7 +2,7 @@
 
 **AI Engineer** building production AI systems — RAG pipelines, local LLMs, and multi-agent systems.
 
-MS Data Science @ SUNY Albany 2026 · BS Computer Science @ SRM University
+MS Data Science @ SUNY Albany · BS Computer Science @ SRM University
 
 ---
 
