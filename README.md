@@ -7,15 +7,14 @@ MS Data Science @ SUNY Albany · BS Computer Science @ SRM University
 ---
 
 ### 🚀 What I build
-
 **AI systems that solve real problems — not tutorials.**
 
 | Project | What it does | Stack |
 |---|---|---|
 | [🔍 AI Job Search Agent](https://github.com/ChandraShekar0209/AI-assisted-Job-Search) | Upload your resume → get matched job postings ranked by skill fit using 3-tier LLM scoring | LangChain · ChromaDB · JSearch API · FastAPI · LangSmith |
-| [🔒 Local AI Code Reviewer](https://github.com/ChandraShekar0209/local-code-reviewer) | 3 open source LLMs review your code locally — no data leaves your machine, zero API cost | Ollama · LLaMA 3.2 · CodeLlama · Mistral · FastAPI |
+| [🔒 Local AI Code Reviewer](https://github.com/ChandraShekar0209/local-code-reviewer) | 3 open-source LLMs review your code locally — no data leaves your machine, zero API cost | Ollama · LLaMA 3.2 · CodeLlama · Mistral · FastAPI |
 | [🧠 AI Research Assistant](https://github.com/ChandraShekar0209/ai-research-assistant) | 4 AutoGen agents debate any research paper — Reader extracts, Critic challenges, Implementer codes, Summariser concludes | AutoGen · GPT-4o-mini · FastAPI · arxiv |
-
+| [⚙️ LLM Fine-Tuning with LoRA](https://github.com/ChandraShekar0209/your-repo-name) | Fine-tuned GPT-2 using parameter-efficient techniques, reducing memory requirements by 60%+ while preserving generation quality | LoRA · QLoRA · PEFT · PyTorch · Hugging Face · GPT-2 |
 ---
 
 ### 🛠 Tech stack
